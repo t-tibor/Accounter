@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AccountManager.Properties
+namespace Accounter.Properties
 {
 
 
